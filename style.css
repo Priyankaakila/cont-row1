@@ -1,0 +1,19 @@
+
+.container{
+    width: 1200px;
+    background-color: beige;
+    margin: auto;
+    height: 340px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.box1{
+    width: 20%;
+    margin: auto;
+    border: 5px solid #c4bfbf;
+    padding: 15px;
+    border-bottom: 5px solid #1a1faf;
+}
